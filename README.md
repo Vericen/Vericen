@@ -1,4 +1,4 @@
 - ✌️ Привет, я Vericen, или же просто Вадим.
-- 🐱‍💻 Связаться со мной можно в Telegram, ВКонтакте.
+- 🐱 Связаться со мной можно в Telegram, ВКонтакте.
 - 🌌 Telegram: https://t.me/vericen
 - 🐙 ВКонтакте: https://vk.com/vericen
