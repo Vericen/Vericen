@@ -12,5 +12,3 @@ I don’t know any language, but I’m already learning
 ![python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vericen&show_icons=true&theme=synthwave)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vericen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
