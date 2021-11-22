@@ -2,7 +2,7 @@
 
 ### My social and project:
 [![Telegram](https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram)](https://t.me/vericen)
-[![VK](https://img.shields.io/badge/VK-white?style=for-the-badge&logo=Vk)](https://vk.com/vericen)
+[![VK](https://img.shields.io/badge/VK-black?style=for-the-badge&logo=Vk)](https://vk.com/vericen)
 [![arxonium](https://img.shields.io/badge/arxonium-black?style=for-the-badge&logo=minecraft)](https://arxonium.ru/)
 [![arxoniumvk](https://img.shields.io/badge/Arxonium__Vk-black?style=for-the-badge&logo=vk)](https://vk.com/arxonium)
 ### My lang:
