@@ -9,4 +9,4 @@ I am studying these programming languages:
 
 ### My projects: 
 
-[![arxonium](https://img.shields.io/badge/arxonium-black?style=for-the-badge&logo=minecraft)](https://arxonium.ru/)
+[![arxonium](https://img.shields.io/badge/arxonium-black?style=for-the-badge&logo=minecraft)](https://arxonium.ru/) - semi-vanilla Minecraft project aimed at the CIS audience.
