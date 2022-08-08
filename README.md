@@ -15,3 +15,15 @@ I don’t know any language, but I’m already learning
 ![python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vericen&show_icons=true&theme=synthwave)
+
+### Hi there 👋, my name is Vadim!
+#### I am a novice programmer and web designer. 
+In my free time, I do programming and create my own projects.
+
+I am studying these programming languages:
+![Kotlin](https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=Kotlin)
+![python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python)
+
+- 🔭 text
+- 🔭 text
+- 🔭 text
