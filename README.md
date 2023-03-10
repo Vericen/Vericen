@@ -11,5 +11,5 @@ I am studying these programming languages:
 
 Information: Semi-vanilla Minecraft project aimed at the CIS audience.
 
-[![arxonium](https://img.shields.io/badge/arxonium-black?style=for-the-badge&logo=minecraft)](https://arxonium.ru/)
+[![arxonium](https://img.shields.io/badge/arxonium-black?style=for-the-badge&logo=minecraft)](https://ds.arxonium.net/)
 
