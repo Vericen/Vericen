@@ -1,15 +1,6 @@
-### Hi there 👋, my name is Vadim!
-#### I am a novice programmer and web designer. 
-In my free time, I do programming and create my own projects.
+### Hi there 👋, my name is Vadim
+#### I am studying interesting things for me, as well as creating various projects of my own
+I live in 🇷🇺 Russia, I am 18 years old, that's all, in principle, there is nothing more to add :D
 
-I am studying these programming languages:
-
-![Kotlin](https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=Kotlin)
-![python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python)
-
-### My projects: 
-
-Information: Semi-vanilla Minecraft project aimed at the CIS audience.
-
-[![arxonium](https://img.shields.io/badge/arxonium-black?style=for-the-badge&logo=minecraft)](https://ds.arxonium.net/)
-
+- 🌱 I’m currently learning programming, graphic design and system administration 
+- 📫 How to reach me: TG/VK/DS: @vericen 
